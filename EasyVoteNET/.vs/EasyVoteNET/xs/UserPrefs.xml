@@ -1,4 +1,10 @@
 ﻿<Properties StartupConfiguration="{481EB0F2-CD01-4A98-9B87-EDE116926172}|Default">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.EasyVoteNET FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.EasyVoteNET PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
 </Properties>
