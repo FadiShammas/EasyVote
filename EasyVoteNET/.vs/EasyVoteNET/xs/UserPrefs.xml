@@ -1,5 +1,9 @@
-﻿<Properties StartupConfiguration="{481EB0F2-CD01-4A98-9B87-EDE116926172}|Default">
-  <MonoDevelop.Ide.Workbench />
+﻿<Properties StartupConfiguration="{481EB0F2-CD01-4A98-9B87-EDE116926172}|Default" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EasyVoteNET Status">
+    <Files>
+      <File FileName="EasyVoteNET Status" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
